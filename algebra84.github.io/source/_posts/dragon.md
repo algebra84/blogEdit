@@ -1,8 +1,9 @@
 ---
 title:  一只精灵龙的故事
 tags: 
-- fun,
-- 怼阿光
+- 炉石
+- fun
+- 怼[阿光](https://mercy-pm.github.io/)
 ---
 
 ## 问题背景
