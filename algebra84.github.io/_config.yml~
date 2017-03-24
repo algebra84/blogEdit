@@ -5,9 +5,9 @@
 # Site
 title:  红桃六的博客屋
 subtitle: 不积跬步何以至千里  
-description:  simple  
+description:  这个男人很cool
 author:  红桃六
-language: zh-CN  
+language: zh-Hans
 timezone:  
 
 # URL
@@ -63,7 +63,12 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+#theme: landscape
+theme: next
+
+
+# 头像
+avatar: /images/moon.jpg
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

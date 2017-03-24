@@ -3,7 +3,9 @@ title: 3只精灵龙的故事
 tags: 
 - 炉石
 - fun
-- 怼[阿光](https://mercy-pm.github.io/)
+- 怼阿光
+date: 2017-03-19
+categories: 娱乐
 
 ---
 
